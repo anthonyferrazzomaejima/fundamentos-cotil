@@ -15,13 +15,13 @@ Meu nome é **Anthony**, sou uma pessoa dedicada que concilia trabalho e estudos
 
 Para iniciar programação, o primeiro e clássico comando utilizado na linguagem C é 'printf()', tendo em conta a LENDA que jaz que todo código deve começar com Hello World! provindo do propriamente dito.
 
-'''#include <stdio.h>
+'''
+#include <stdio.h>
 
 int main() {
-
-    // Imprime "Hello, World!" na tela
 
     printf("Hello, World!\n");
 
     return 0;
-}'''
+}
+'''
